@@ -1,1 +1,0 @@
-{"canister_methods":{"queries":[{"name":"getMessage","composite":false}],"updates":[{"name":"setMessage"}],"callbacks":{}},"env_vars":[]}
